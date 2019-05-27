@@ -1,0 +1,12 @@
+# Define the number of dimensions we are working on
+dim = 2
+
+# Define the image coordinates
+0_15.jpeg; ; (0.0, 0.0)
+1_15.jpeg; ; (0.0, 255.0)
+2_15.jpeg; ; (0.0, 510.0)
+3_15.jpeg; ; (0.0, 765.0)
+4_15.jpeg; ; (0.0, 1020.0)
+5_15.jpeg; ; (0.0, 1275.0)
+6_15.jpeg; ; (0.0, 1530.0)
+7_15.jpeg; ; (0.0, 1785.0)

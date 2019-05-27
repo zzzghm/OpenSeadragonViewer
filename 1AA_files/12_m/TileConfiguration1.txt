@@ -1,0 +1,6 @@
+# Define the number of dimensions we are working on
+dim = 2
+
+# Define the image coordinates
+Fused1.jpg; ; (0.0, 0.0)
+Fused2.jpg; ; (3826.0, 0.0)
